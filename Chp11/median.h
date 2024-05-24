@@ -4,8 +4,9 @@
 #ifndef GUARD_median_h
 #define GUARD_median_h
 
-#include <vector>
 
-double median(vector<double>);
+#include "vec.h"
+
+double median(Vec<double>);
 
 #endif
